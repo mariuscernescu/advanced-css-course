@@ -4,4 +4,4 @@ This an advanced CSS course that goes deeper into how CSS works behind the scene
 I learned a lot about CSS architecture in this course.
 I will update my progress in the course in this repo.
 
-![picture with the homepage of the app](/Images/1.gif?raw=true)
+![picture with the homepage of the app](/Images/Image-git/1.gif?raw=true)
