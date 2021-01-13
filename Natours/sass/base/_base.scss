@@ -21,12 +21,13 @@ html {
   @include respond(tab-port) {
     font-size: 50%; //1 rem = 8px, 8/16 = 50%
   }
-
-//   @include respond(phone) {
-//     font-size: 40%; //1 rem = 8px, 8/16 = 50%
-//   }
 }
 
 body {
   box-sizing: border-box;
+  padding: 3rem;
+
+  @include respond(tab-port) {
+    padding: 0;
+  }
 }
