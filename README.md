@@ -5,3 +5,7 @@ I learned a lot about CSS architecture in this course.
 I will update my progress in the course in this repo.
 
 ![picture with the homepage of the app](/Natours/Image-git/1.gif?raw=true)
+
+![picture with the homepage of the app](/Natours/Image-git/2.gif?raw=true)
+
+![picture with the homepage of the app](/Natours/Image-git/3.gif?raw=true)
