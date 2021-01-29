@@ -9,3 +9,5 @@ I will update my progress in the course in this repo.
 ![picture with the homepage of the app](/Natours/Image-git/2.gif?raw=true)
 
 ![picture with the homepage of the app](/Natours/Image-git/3.gif?raw=true)
+
+![picture with the homepage of the app](/Natours/Image-git/4.gif?raw=true)
